@@ -5,7 +5,7 @@
 
 ---
 
-✨ *"I see data as puzzles waiting to be solved — and I want to be the one who solves them."*  
+✨ *"I see data as puzzles waiting to be solved and I want to be the one who solves them."*  
 
 ---
 
