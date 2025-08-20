@@ -36,9 +36,11 @@
 ### 📫 Connect with Me
 - GitHub: [YazidHilmi](https://github.com/YazidHilmi)  
 - LinkedIn: [linkedin.com/in/yazidhilmi](https://www.linkedin.com/in/yazidhilmi/)  
-- Email: yazidhilmi10@gmail.com  
+- Email: yazidhilmi10@gmail.com
 
-<h2 align="left">Play Games With Me</h2>
+---
+
+<h3 align="left">🎮 Play Games With Me </h3>
 
 ###
 
