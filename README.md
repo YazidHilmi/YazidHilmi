@@ -40,7 +40,7 @@
 
 ---
 
-<h3 align="left">🎮 Play Games With Me </h3>
+<h3 align="left">🎮 Play Games with Me </h3>
 
 ###
 
