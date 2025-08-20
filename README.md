@@ -37,3 +37,17 @@
 - GitHub: [YazidHilmi](https://github.com/YazidHilmi)  
 - LinkedIn: [linkedin.com/in/yazidhilmi](https://www.linkedin.com/in/yazidhilmi/)  
 - Email: yazidhilmi10@gmail.com  
+
+<h2 align="left">Play Games With Me</h2>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YazidHilmi/YazidHilmi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YazidHilmi/YazidHilmi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YazidHilmi/YazidHilmi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
